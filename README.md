@@ -1,1 +1,5 @@
-# libhk.github.io
+# 香港人，加油！
+這小小網頁想幫助約定大家同一時間，同時呼喊。
+https://libhk.github.io
+
+## 請廣傳。
